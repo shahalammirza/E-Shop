@@ -1,0 +1,304 @@
+.head-top{
+	background-color: #313e3b;
+
+}
+.add{
+	background-color: #212530;
+}
+.navbar-color{
+	color: white !important;
+}
+.carousel-caption{
+	text-align: left;
+	padding-bottom: 160px;
+	float: left;
+}
+.year-2018{
+	float: left;
+	font-size: 80px;
+	font-weight: bold;
+	color: black;
+}
+.discription{
+	font-size: 20px;
+	font-weight: bold;
+	padding-top: 32px;
+	color: black;
+}
+.carusel-btn{
+	margin: 5px 18PX;
+}
+.lernbtn{
+	background-color: #f67934;
+}
+.morelrn-btn{
+	background-color: #fffdfd;
+}
+.serchbar{
+	background-color:#313e3b;
+}
+.cart-btn{
+	background-color: #EF5D2D;
+	color: white;
+}
+.account-btn{
+	background-color: crimson;
+	color: white;
+}
+.gamil-name{
+	padding-left: 50px;
+	color: white;
+}
+.header-p{
+	height: auto;
+	background-color: #EF5D2D;
+	color: #fff;
+	padding: 10px;
+}
+.ppp{
+	padding-left: 37px;
+	margin: 0px;
+}
+.pp{
+	padding-left: 24px;
+	margin: 0px;
+}
+.icon{
+	font-size: 28px;
+	position: absolute;
+	top: 10px;
+}
+#shoes{
+	padding: 20px;
+}
+.text{
+	font-weight: bold;
+	margin: 0px;
+}
+.texth{
+	width: 30px;
+	height: 2px;
+	margin: 0px;
+}
+.view{
+	float: left;
+	padding-top: 18px;
+}
+.angle-ico{
+	width: 17px;
+	text-align: center;
+}
+.angle{
+	float:right;
+	margin-left: 10px;
+}
+#shopnamebackg{
+	background-color:#454545;
+}
+#shopname{
+	padding: 0px 255px;
+}
+.textimg{
+	margin-left: 16%;
+	padding-top: 9%;
+}
+h1{
+	float: left;
+	font-size: 80px;
+}
+#imagebtn{
+	margin: 0% 2%;
+}
+.cardsector2{
+	height: 100%;
+	width: 100%;
+}
+hr{
+	background-color: #e0a008;
+}
+#bannerbtn{
+	margin: 0% 10%;
+}
+ul li a{
+	color: black !important;
+}
+
+.nav-botton{
+	color: #fff !important;
+}
+ .background-img{
+ 	background-image: url("../img/pexels-photo-1060330.jpeg");
+ 	height: 400px;
+ 	background-size: cover;
+ 	background-attachment: fixed;
+ }
+#banner-img{
+	padding:65px;
+
+}
+#mostwanterbtn1{
+	background-color: #8dce12;
+	color: white;
+}
+#mostwanterbtn2{
+	background-color: #8dce12;
+	color: white;
+}
+#mostwanterbtn3{
+	background-color: #8dce12;
+	color: white;
+}
+#mostwanterbtn4{
+background-color: #1f37a1;
+color: white;
+}
+#mostwanterbtn5{
+background-color: #1f37a1;
+color: white;
+}
+#mostwanterbtn6{
+background-color: #1f37a1;
+color: white;
+}
+#mostwanterbtn7{
+background-color:#7e7f83;
+color: white;
+}
+#mostwanterbtn8{
+background-color: #7e7f83;
+color: white;
+}
+#mostwanterbtn9{
+background-color: #7e7f83;
+color: white;
+}
+.card-text{
+	text-align: center;
+}
+.but{
+	margin: 0 40%;
+}
+.banner{
+	width: 100%;
+}
+#bologcard1{
+	border: none;
+}
+#bologcard2{
+	border: none;
+}
+#bologcard3{
+	border: none;
+}
+#bologcard4{
+	border: none;
+}
+
+
+#foooterproduct{
+	padding-top: 42px;
+
+}
+#foooterproduct1{
+	padding-top: 42px;
+
+}
+#footerbackcolor{
+	background-color:black;
+}
+#cardsector2{
+	padding-top: 12px;
+}
+#cardsector3{
+	padding-top: 15px;
+}
+#cardsector4{
+	padding-top: 19px;
+	padding-bottom: 12px;
+}
+#cardsector5{
+	padding-top: 19px;
+	padding-bottom: 12px;
+}
+#bologsector{
+	padding-top: 17px;
+	padding-bottom: 15px;
+}
+#cardsector3in1{
+	padding-top: 5px;
+}
+#cardsector3in2{
+	padding-top: 21px;
+}
+#cardsector3in3{
+	padding-top: 21px;
+}
+
+.location{
+	background-color: #fc5f16;
+	height: 60px;
+}
+.cardsector4btn{
+	background-color:#ffa602;
+	margin: 0% 30%;
+}
+.cardsector5btn{
+	background-color:#ffea03;
+	margin: 0% 30%;
+}
+
+.fb-icone{
+	font-size: 13px;
+border: 1px solid #e11616;
+border-radius: 50%;
+padding: 10px;
+background-color: red;
+color: #fff;
+}
+.fb-icone:hover{
+background-color: #f35a31;
+color: white;
+}
+
+.footer-icon{
+	float: right;
+    padding: 20px !important;
+}
+.footer-list-1{
+	padding-bottom: 20px;
+}
+.footer-product{
+	color: white;
+}
+.footer-hr{
+	width: 129px;
+	height: 2px;
+	margin: 0px;
+	margin-bottom: 8px;
+}
+.footer-heading{
+	font-size: 20px;
+	color: white;
+}
+.footer-heading-in{
+	font-size: 14px;
+	color: white;
+}
+.footer-heading1{
+	color: white;
+}
+.list-heading{
+	margin: 0px 15px;
+}
+.list-convetrs{
+	color: white;
+
+}
+.last-footer{
+	background-color: black;
+	margin: 0px;
+	padding: 0px;
+}
+.last-footer-text{
+	padding-top: 24px
+}
